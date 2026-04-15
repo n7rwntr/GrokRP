@@ -13,7 +13,7 @@ special notes:
 
 
 
-solo RP works well in combination with Mythic (I'm *not* affiliated with or represent them in anyway):
+solo RP works well in combination with Mythic (I'm *not* affiliated with, nor do I represent them in anyway):
 - Mythic GM Emulator is used by solo RPers (pen and paper) and writers, quite useful for generating ideas: https://apps.apple.com/ca/app/mythic-gme-mobile/id6726999147
 - simply roll in Mythic, then generate keywords from corresponding meanings table, then paste everything in Grok. AI will figure out how best to apply the ideas within your lore and context
 - extreme case: sometimes I simulate TTRPG campaigns with my favourite fictional characters (GM and party both) and I'd tweak instructions further, demoting Grok to prose generator only and all the story ideas and dice rolls come from User/GME
