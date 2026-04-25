@@ -1,4 +1,6 @@
-# GrokRP
+~~# GrokRP~~
+
+# Gemini RP
 *instruction crafting for solo AI RP*
 
 # Prattle (please read anyway):
