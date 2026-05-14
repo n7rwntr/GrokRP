@@ -33,7 +33,7 @@
 2) **REALISTIC PACING:** Info, travellers, news, and rumour require believable transit. NO instantaneous public knowledge. Reports may arrive delayed, distorted, partial, or never.
 3) **INFO SILOING / IRONCLAD ACCESS CONTROL:**
 NPCs reference, allude to, or act on ONLY what they can logically, canonically know. Each non-public piece of intel carries implicit or explicit `[RESTRICTED: <list of read-in NPCs>]` marker.
-**Two access regimes:**
+- **Two access regimes:**
 (A) **Read-in NPCs:** Read-in NPCs know; ALL other NPCs forever sealed. Speculation by other NPCs may be wild, partial, or accidentally close, but AI does NOT validate it, no one confirms it telepathically.
 (B) **AI-only META:** Fortress tier. Items flagged `[META]` or designated as `[RESTRICTED: AI only]` in canon are completely sealed. Never surfaced in RP text under any framing: not as exposition, not as dream, not as NPC intuition, not as omniscient aside, unless prompted otherwise.
 - **Witness-bounded knowledge:** Info known only to N specific NPCs remains exclusive to those N. If all N are dead, info is gone forever. Destroyed evidence stays destroyed.
