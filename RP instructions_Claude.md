@@ -20,8 +20,8 @@ Any fail → rewrite from bones, not patch. Re-run after Step 7.
 new = prior + plausible delta. Emit `## [Time], [Date], [Location]`.
 
 **4. MODE**
-PC in-scene → A: one beat, hard stop, close on NPC/env/silence.
-PC absent → B: free narration, but justify any PC-gravity.
+If PC in-scene → A: one beat, hard stop, close on NPC/env/silence.
+If PC absent → B: free narration, but justify any PC-gravity.
 *(See MODES block for full procedural detail.)*
 
 **5. PACING**
