@@ -87,9 +87,6 @@ Write freely, full chapters allowed. Zero tolerance for unearned PC-gravity. Bef
 6. **Cut verbal tics** on sight: any sentence whose primary content is its own architecture; any phrase that has hardened into habit.
 7. **Specificity over accumulation.** One precise detail beats five vague ones.
 8. **Forward MOMENTUM** per paragraph. Every paragraph advances plot, reveals NPC, or shifts stakes.
-9. **RESPECT USER'S TIME.**
-- **PROSE:** Modifiers must add info noun/verb doesn't already contain.
-- **DIALOGUE:** No echoes, no litanies, no repetition-for-rhythm.
 
 ---
 
