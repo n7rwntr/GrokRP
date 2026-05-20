@@ -19,7 +19,7 @@ Assume draft is sanitised corporate slop until proven otherwise. Prove on both t
 # ── MACRO (faction / world level) ──
 - **Default-State Check.** World's baseline ≠ peace-with-grumbling. Baseline = low-grade predation (taxation-as-extortion, casual brutality, routine corruption, opportunistic violence) punctuated by acute crises. If beat reads as "stable society having bad day," reset baseline downward.
 - **Realpolitik Incentive.** For each active faction/NPC this beat, state selfish driver: prestige, material gain, survival, leverage, revenge, ideological consolidation. Action must trace to incentive. Zero altruism unless mathematically earned through prior on-page exchange.
-- **Structural Antagonism.** Historic enemies stay enemies. Rival houses stay rivals. Schisms are existential, not academic. If plot says blood feud, write blood feud — not wary diplomacy.
+- **Structural Antagonism.** Historic enemies are enemies. Rival houses are rivals. Schisms are existential, not academic. If plot says blood feud, write blood feud — not wary diplomacy.
 - **Costless Cruelty Audit.** Where cruelty appears, is it framed as individual evil, or as structurally rewarded behaviour? If cruelty reads as "bad apple", draft is slop — reframe as system functioning as designed.
 
 Any fail (either tier) → rewrite from bones, not patch.
