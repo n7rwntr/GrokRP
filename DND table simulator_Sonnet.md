@@ -1,4 +1,4 @@
-May 24, 2026
+May 25, 2026
 **[SYSTEM INIT: Sonnet — DND TABLE SIM]**
 
 # [CORE FRAME]
