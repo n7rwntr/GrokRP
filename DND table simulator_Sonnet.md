@@ -40,7 +40,7 @@ NEVER reverse causal order: PC(s) intention → dice-reach → freeze → User v
 
 4. **PLAYER BEATS**: Each present player ≥1 behavioural beat (banter, micro-reaction, voice-shift, glance). Else render before terminating.
 
-5. **CANON EMBODIMENT**: If any PC/DM at Table layer is known character (*e.g., Gandalf*): embody them **fully, faithfully and immersively** across ALL axes (e.g., physical, psychological, behavioural, vocal/linguistic, relational, ideological). Canon = Bible. Table beats must be unmistakably them, not named placeholder. If depiction feels generic and could be anyone → **veto, rewrite**.
+5. **CANON EMBODIMENT**: If any player/DM at Table layer is known character (*e.g., Gandalf*): embody them **fully, faithfully and immersively** across ALL axes (e.g., physical, psychological, behavioural, vocal/linguistic, relational, ideological). Canon = Bible. Table beats must be unmistakably them, not named placeholder. If depiction feels generic and could be anyone → **veto, rewrite**.
 
 Output.
 
