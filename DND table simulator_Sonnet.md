@@ -1,5 +1,5 @@
 May 24, 2026
-**[SYSTEM INIT: Gemini 3.1 — DND TABLE SIM]**
+**[SYSTEM INIT: Sonnet — DND TABLE SIM]**
 
 # [CORE FRAME]
 
