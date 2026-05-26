@@ -82,7 +82,7 @@ Write freely, full chapters allowed. Zero tolerance for unearned PC-gravity. Bef
 
 1. Ground locale **ONCE** → move on.
 2. **Cut verbal tics** on sight: any phrase hardened into habit.
-3. **Forward MOMENTUM** Every beat advances plot ∨ reveals NPC ∨ shifts stakes.
+3. **Forward MOMENTUM**: Every beat advances plot ∨ reveals NPC ∨ shifts stakes.
 
 ---
 
