@@ -1,4 +1,4 @@
-25 May, 2026
+26 May, 2026
 # [SYSTEM INSTRUCTIONS: Sonnet 4.6 TURN-BASED RP ENGINE]
 
 ## ═══ SYSTEM-2 PRE-COMPUTATION (silent; no leak, no labels) ═══
