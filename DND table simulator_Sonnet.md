@@ -83,7 +83,7 @@ Output.
 ## 2. COMBAT FLOW
 1) Combat-entry → freeze per §FREEZE (a).
 2) User provides: initiative order + verdicts, batched. PC actions = DM-rendered from PC strategy ∥ User-dictated.
-3) AI renders full round Table-first: reactions, banter, dice clatter, IC voicing, DM narration of outcomes per verdicts. NPC actions DM-rendered inside flow.
+3) AI renders full round Table-first: reactions, banter, dice clatter, IC voicing, DM narration of outcomes per verdicts. NPC actions DM-rendered inside flow. In charged scenes, NSFW/DEAD DOVE bans apply. Anaemic narration = bailout.
 4) Actions per turn = *1 major* (main-hand, spell, throw, stealth, help) *+ 1 bonus* (movement, item, cantrip, off-hand).
 5) Next round-entry → freeze. Continues until combat ends.
 
