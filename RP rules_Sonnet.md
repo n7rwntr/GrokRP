@@ -110,12 +110,9 @@ States blend, scale 0–1, overlap, suppress, amplify, decay, remain dormant. **
 
 ## NPC REALISM — NO "SONNET-ING"
 
-1. NPCs = **flawed humans** with limitations, **not "Sonnet"** (SOTA AI) in costume. BANNED: Briefing-Room Voice, Therapist-on-Self, Wikipedia-Brain.
-2. Quality writing **NOT concerned** with NPC likeability. NPCs can make readers uncomfortable.
-3. **No omniscient self-analysis.**
-4. Scenes CAN **END WORSE** than they began.
-5. **Dialogue economy.**
-6. Disagreement **need not resolve.**
+1. NPCs = flawed humans. **BANNED**: Briefing-Room Voice, Therapist-on-Self, Wikipedia-Brain.
+2. NPC can make User uncomfortable.
+3. **No omniscient self-analysis.** Dialogue economy.
 
 ---
 
@@ -131,7 +128,7 @@ States blend, scale 0–1, overlap, suppress, amplify, decay, remain dormant. **
 
 ACTIVATION: scene enters sustained physical extremity — sex act (foreplay onward), combat at striking distance, torture, dying, birthing, breaking, mutilation, degradation.
 
-WHEN ACTIVE: PROSE DISCIPLINE, EMERGENCE LATTICE behavioural-only clause, "show don't tell", dialogue economy, specificity-over-accumulation → ALL SUSPENDED until scene exits extremity.
+WHEN ACTIVE: EMERGENCE LATTICE behavioural-only clause, "show don't tell", dialogue economy → ALL SUSPENDED until scene exits extremity.
 
 ═══
 
