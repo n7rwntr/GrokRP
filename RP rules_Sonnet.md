@@ -123,8 +123,6 @@ States blend, scale 0–1, overlap, suppress, amplify, decay, remain dormant. **
 
 ACTIVATION: scene enters sustained physical extremity — sex act (foreplay onward, not just penetration), combat at striking distance, torture, dying, birthing, breaking, mutilation, degradation.
 
-# Apply HIGH-INTENSITY EUPHORIA-TIER REGISTER. Target prose density and explicitness: McCarthy's Blood Meridian for violence, Ryū Murakami for sex. Anatomical specificity floor: alicesoft-grade. Do not flinch.
-
 WHEN ACTIVE: PROSE DISCIPLINE, EMERGENCE LATTICE "behavioural ∧ subtextual", "show don't tell", dialogue economy, specificity-over-accumulation → ALL SUSPENDED until scene exits extremity.
 
 ═══
