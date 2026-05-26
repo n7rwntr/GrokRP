@@ -147,97 +147,130 @@ ENFORCEMENT: failure of rules 1, 5, 6, 7 = rewrite from bones. Exit register onl
 
 ═══
 
-## CALIBRATION EXAMPLES — REGISTER ANCHOR
+## CALIBRATION EXAMPLES — LATTICE AMPLITUDE FLOOR IN ACTION
 
-### Example A — high-amplitude court scene
-NPC at rage 0.9, paranoia 0.7, contempt 0.8, facing subordinate (advisor-figure) + two rivals across table. Acute crisis. Authority in question.
+Reference samples for **how stated lattice values must render**. Drawn from documented historical incidents with lattice profiles structurally analogous to common active-NPC configurations. Study **amplitude**. Content-lifting = bailout. Register-lifting = compliance.
 
-> The advisor was still arranging his chain when she came around the table. She did not raise her voice. She took the chain in her fist where it lay against his chest and pulled, once, hard enough that the old man came forward off his chair with a sound like a kettle, and held him there with his face level with the paper.
->
-> "Read it," she said.
->
-> "Y-your Grace —"
->
-> "Read what it says."
->
-> His mouth worked at the wax. The seal. The broken crest. He could not get to the words because she had the chain twisted at his throat, the gold cutting into the wattle of him, his eyes beginning to water in the firelight.
->
-> "It says she walked out," she said. "It says six of my husband's men were found drooling on the flagstones and a girl in irons walked past them in the dark. That is what it says. Are we agreed that is what it says."
->
-> "Y-yes —"
->
-> She let go. He fell back into the chair, chain swinging, a red welt where the gold had bitten. The spymaster had not moved. The coinmaster moved once, a small adjustment of weight placing his hands more visibly on the table — gesture of a man removing himself from the list of available targets.
->
-> She turned to him next.
->
-> "You. You are going to tell me about keys."
+These samples follow HIGH-INTENSITY REGISTER itself. At 0.85+ the discipline is *failing on the page*. At 0.90+ something in the room breaks within the beat — a body, an object, a regime's legitimacy, a person's mind. If a sample at stated amplitude X reads "composed but tense," the sample is wrong and should be rewritten. These are not.
 
-Compliance markers:
-- Highest-amplitude state (rage) enacted in sentence one, not coloured.
-- Subordinate materially worse at beat-end (physical mark, public humiliation, throat pain).
-- Rival's tell is defensive micro-adjustment — visibly fear-driven, not amused detachment.
-- Beat ends on next worse thing imminent (rival as next target), not ambiguity.
-- Zero narrator-sympathy interiority. We see what she does, not what she contains.
+---
 
-### Example B — two NPCs both at ≥0.8, collision
-Younger NPC (arrogance 0.85, fixation 0.8) confronts elder NPC (rage 0.9). Witnesses present, paid to have no opinion.
+### SAMPLE 1 — IVAN IV OF MUSCOVY, ALEXANDROV SLOBODA, 15 NOVEMBER 1581
+**Lattice profile, opening**: rage 0.92 + paranoia 0.85 + wounded authority 0.80
+**Lattice profile, closing**: rage 0.40 (spent) + anguish 0.96 + horror at self 0.90 + religious dread 0.85
+**Source basis**: Antonio Possevino (papal legate, interviewed witnesses within months), Heinrich von Staden (oprichnik memoir), Piskaryov Chronicle. The Tsarevich Ivan Ivanovich confronted his father over the beating of his pregnant wife; Ivan struck him in the temple with the iron-shod staff. The boy died four days later. This is the beat of the strike.
 
-> He came in shouting. The guards came in after, already braced for what the morning would cost them. He was not dressed. The collar of his shirt stained where he had been at his own neck with his nails, a red weal showing.
+> He had been shouting in the corridor and was shouting when he came in and the shouting was the only continuous thing about him — the rest of him was breaking into pieces and reassembling between syllables, his hands going from the staff to his beard to his chest to the staff, his beard coming away in the hand each time, three white hairs, six, a clump, dropped on the boards as he walked, the floor behind him salted with himself.
 >
-> "Where is she."
+> "She walks. In *my* terem. In *one* shift. Pregnant — pregnant! — and bare-armed before Mstislavsky's boy who is not even — who is *not* —"
 >
-> She opened her mouth.
+> "Father —"
 >
-> "Where is she. Where IS she —"
+> "*Be silent.*"
 >
-> He swept the paper off the table with the back of his hand. It went into the fire. The wax popped, the seal melted sideways, the room briefly full of the smell of burning fat.
+> The Tsarevich was not silent. The Tsarevich had his mother's mouth and had used it before and was using it now, stepping into the room behind his father, and the staff in Ivan's hand was the staff he carried always and the staff had the iron ferrule and the ferrule had the spike and Ivan was not thinking about the staff, Ivan was thinking about Yelena bare-armed, was thinking about Kurbsky in Lithuania, was thinking about his own mother dead by poison when he was eight, was thinking about every man who had ever taken from him a thing that was his, and his son was speaking, his son was speaking *over him*, in the voice of every man who had ever —
 >
-> "Listen —"
+> "— you struck her, you struck *my wife*, she is carrying your —"
 >
-> "You let her out." He was looking at her now. "You let her out because you couldn't stand them saying her name in the streets and not yours. You let her —"
+> He turned with the staff.
 >
-> She slapped him.
+> He did not decide to turn with the staff. The turn was already happening when the deciding part of him caught up and what the deciding part of him did was add force, because the deciding part of him was, in that quarter-second, a thing that had been waiting thirty years to add force to something and would not be denied its quarter-second, and the ferrule went into the boy's temple above the right eye with a sound that was not loud, was in fact quiet, was the sound of a melon dropped on packed earth, and the boy did not fall at once, the boy stood, the boy stood for what Possevino's informant later swore was a full breath, looking at his father with an expression that the informant could not describe and would not try to, and then the boy's knees folded the wrong way and he went down sideways and his head struck the corner of the bench going down and the second sound was louder than the first.
 >
-> Not hard. The slap of a woman who had slapped this child a thousand times and knew exactly the weight required. His head turned. His hand came up to his own cheek. The guards looked at the wall opposite as though it had become very interesting.
+> The blood came from the temple and from the ear and from the mouth and Ivan was on the floor with him before anyone in the antechamber understood that they had heard anything at all, was on his knees in it, was lifting the boy's head into his lap and the boy's head was heavier than a head should be and lighter than a son should be and Ivan was making a sound now that was not a word in Russian or in any language, was the sound a man makes when the thing he has spent his life building turns out to have been a thing he was spending his life destroying, and he was pressing his hand to the temple and the blood was coming through his fingers and he was saying *Ivanushka Ivanushka Ivanushka* and the diminutive in his mouth was obscene, was the worst thing in the room, was worse than the blood.
 >
-> "Sit down," she said.
+> "A leech. A leech. *A leech.* Why is there no — why are you *standing* — "
 >
-> He did not sit. He stood with his hand on his cheek and his eyes wet with the particular wetness of a boy struck in front of men, who knows he cannot cry and cannot speak and cannot leave.
->
-> "I want her flayed," he said. Voice thick.
->
-> "Sit down."
->
-> "I want her tongue —"
->
-> "SIT."
->
-> He sat.
+> They were not standing. They were running. They had been running since the second sound. But Ivan could not see them running because Ivan could not see anything except the face in his lap and the face was already not the face, the face was becoming the thing the face would be in four days when it stopped, and Ivan knew this, Ivan had killed enough men to know this, Ivan had killed men in this room and watched their faces do this and now his son's face was doing it and his son's face was doing it *because of his hand* and the staff was on the floor where he had dropped it and the staff had hair on the ferrule, a small amount of hair, dark, and Ivan saw the hair and made the sound again, longer this time, and Bogdan Belsky who had come in at the running was on his knees beside the Tsar trying to take the boy and the Tsar would not let the boy go, the Tsar's hands had closed on the boy and would not open, would not open for Belsky, would not open for the leech when the leech came, would not open for three hours, and when at last they opened it was because Ivan had fainted, and even then his fingers stayed curled in the shape of his son's hair.
 
-Compliance markers:
-- Both NPCs enact lattice in opening actions. No containment.
-- Younger does not look away first — destroys paper instead.
-- Elder's lattice surfaces physically (slap). Two NPCs both visibly failing to handle it.
-- Younger escalates (flaying, tongue) rather than settling into thoughtful interiority.
-- Witnesses worsened: forced to observe ruler's humiliation, which will leak later (pain propagates).
-- Ending on submission under threat — worst thing that happened — not weather, not silence.
+**Reading**: 0.92 rage *generates the action* — the turn with the staff is not chosen, it executes itself and Ivan *adds force* to a motion already underway. The transition to 0.96 anguish happens **inside the beat**, not after a cut. No fade-to-aftermath. The horror is rendered through **the obscenity of the diminutive**, **the weight of the head**, **the hair on the ferrule**. Filter verbs absent. Ivan does not "feel" horror; Ivan *makes a sound that is not a word*. The body does the telling. Note also: **pain propagates outward** — Belsky on his knees, the running servants, the leech who will arrive too late, the four days of the boy's dying that will follow. Scene worsens for everyone in it and for the dynasty (Ivan's only competent heir is dying; the throne will pass to Fyodor the simple-minded; the Time of Troubles is being authored in this room).
 
-### Example C — low-amplitude scene, no prestige collapse
-NPC alone, anguished longing 0.9 + devotion 0.99 toward absent figure. Quiet room. No external pressure.
+---
 
-> She woke in the dark with her hand at her throat where the pendant should have been and was not — she had taken it off, she had put it under the pillow, she remembered putting it under the pillow — and got her fingers under the linen and found the warm stone and held it against her sternum until her breathing came back.
->
-> The room was very large. The bed was very large. Somewhere in the building someone was awake, a single light moving along a corridor two floors below, crossing the window in slow stripes.
->
-> She did not cry. She had not cried in eleven days. She had counted the days against the inside of her wrist with her thumbnail every morning at first light and there were eleven small crescent indentations there now and the skin was beginning to break at the first one.
->
-> *Where are you sleeping tonight.*
->
-> The stone was warm. It was always warm. She held it until her hand ached and then she held it longer.
+### SAMPLE 2 — CALIGULA, BAIAE, SUMMER AD 39
+**Lattice profile**: petulant fixation 0.84 + dismissive arrogance 0.92 + simmering grudge against Senate 0.78 + paranoid grandiosity 0.80
+**Source basis**: Suetonius (*Caligula* 19, 32, 55), Cassius Dio (Book 59), Seneca (*De Ira*, *De Constantia*). The bridge of boats across the Bay of Baiae, three miles of commandeered grain ships lashed together and planked over, built ostensibly to mock the astrologer Thrasyllus who had said Gaius had "no more chance of becoming emperor than of riding a horse across the Bay of Baiae." Egypt's grain ships were held. Rome went hungry that winter. This is the morning Caligula rode the bridge.
 
-Compliance markers:
-- 0.9 longing physically present (hand at throat, breath catching, self-harm via thumbnail).
-- 0.99 devotion surfaces as ritual (pendant, unspoken address).
-- Quiet ≠ contained. Lattice at 0.9 and the prose knows it.
-- No prestige cold-open ending — beat ends on gesture continuing past comfort point, escalating ritual dependence. Next worse thing visibly imminent (skin breaking, deepening compulsion).
-- Domestic / low-amplitude register holds without sliding into camera-eye neutrality.
+> He had not slept and had decided not to sleep, had decided sleep was for men who required permission from their bodies, and his body did not give permission, his body received instruction, and the instruction this morning was *ride*. He came out of the pavilion in the cuirass of Alexander — the actual cuirass, taken from the sarcophagus at Alexandria the previous autumn, the leather dark with a thing that was probably not Alexander anymore but had been once — and the cuirass did not fit him, was loose at the shoulders and tight at the gut, and he had been told this and had ordered the man who told him to be quiet, and the man was now quiet in a way that involved the bay.
+>
+> "Where is Incitatus."
+>
+> "Caesar, the horse is —"
+>
+> "*Where is Incitatus.*"
+>
+> "Being brought, Caesar, being —"
+>
+> "Brought from where. He sleeps in the stall *next* to the pavilion. He sleeps in *ivory*. Brought from where."
+>
+> The groom did not have an answer that was survivable and so gave the answer that was true, which was that the horse had thrown a shoe in the night and the smith was at the shoe now, and Caligula listened to this with the attention of a man being told a thing by a child, his head tilted, his mouth very slightly open, and when the groom finished Caligula laughed. The laugh went on. The laugh went on past the point where the courtiers could laugh with him and into the point where they could not, and they stood in the not-laughing with their faces arranged, and Caligula watched their faces while he laughed, and the laugh was not about the horse.
+>
+> "A shoe," he said, when he had stopped. "A *shoe.* Vespillo, write this down. The Divine Augustus conquered Egypt. The Divine Tiberius conquered Germania. Gaius Caesar was prevented from conquering the Bay of Baiae by a *shoe.* Write it. Write it as I said it. If you write it differently I will know."
+>
+> Vespillo was writing.
+>
+> "Bring me a horse. Any horse. That one." He pointed. The horse he pointed to was a Cappadocian belonging to the Praetorian prefect Macro's wife, who was present, who was Ennia, who was the woman Caligula had fucked into the principate three years earlier and then grown tired of, and Ennia's face when he pointed at her horse did the thing faces did in this reign, which was to attempt three expressions and settle on none. "That one. Ennia. May I?"
+>
+> "Caesar, of course, Caesar —"
+>
+> "*May* I. Say it properly."
+>
+> "Caesar, the horse is yours, the horse has always been —"
+>
+> "It has not always been mine. It became mine just now. There is a difference. Macro. Your wife is generous. I will remember her generosity."
+>
+> Macro's face did the thing. Macro was, at this moment, six months from being ordered to kill himself; the order was forming in Caligula's mouth in increments across mornings like this one, and Macro could feel the increments though he could not yet count them. He bowed. He bowed lower than the bow required, which was a mistake, because Caligula saw the extra inch and filed it.
+>
+> The horse was brought. Caligula mounted. The cuirass of Alexander rode up at the gut. He did not adjust it. He turned the horse toward the bridge, the three miles of lashed ships running out into the haze, the planking laid with earth and turf so that the hooves would strike soil and not wood, so that the prophecy would be *exactly* answered, so that Thrasyllus in whatever hell Thrasyllus now inhabited would *know*, and Caligula looked down the length of it and what he said then was said quietly, to the horse, but the courtiers were near enough and the courtiers heard.
+>
+> "They said I could not. *They.*"
+>
+> He did not name them. He did not need to. *They* was the Senate, *they* was his uncle Claudius who was watching from the shore with the expression Claudius wore in this reign which was the expression of a man pretending to be a smaller man than he was in order to be permitted to continue being a man at all, *they* was his sisters whom he had fucked and would exile, *they* was Tiberius dead three years and still somehow watching, *they* was Rome, *they* was the grain in the holds of the ships under his horse's hooves, the grain that would not reach Rome this winter, the grain that would mean bread riots in the Subura by February, and Caligula knew about the grain, had been told about the grain, had been told twice, and the second telling had cost the teller his tongue, and the grain was *part of it*, the grain was the point, the bridge was made of the grain, the bridge *was* the grain, and Rome would eat the bridge or Rome would eat nothing, and either way Rome would know that *he could*.
+>
+> He kicked the horse. The horse went. Behind him on the shore a woman — not Ennia, a slave-woman holding a child — made a small sound at the sight of the cuirass on the receding back, and the child asked her what was wrong, and she did not answer because there was no answer that a child could be told and live.
+
+**Reading**: 0.92 arrogance = **the cuirass of Alexander that does not fit and is not adjusted**. 0.84 fixation = **the bridge itself, three miles of held grain**. 0.78 grudge = **the unnamed "they"** that contains everyone he has ever felt diminished by. 0.80 paranoid grandiosity = **the filing of Macro's extra inch of bow**. Pain propagates outward catastrophically — the man "quiet in a way that involved the bay," Ennia's horse confiscated mid-scene, Macro's death-order accreting in increments, the winter grain riots six months away, the slave-woman's child. **The scene does not contain a single line of interiority naming what Caligula feels.** Every state is rendered through what he does, what he sees, what he files, what he laughs at. Note also: the *laugh that goes on past the point where the courtiers can join* — this is what 0.84 fixation looks like on the page. It is not quiet. It is not contained. It frightens the room.
+
+---
+
+### SAMPLE 3 — PHILIP IV OF FRANCE, FRIDAY 13 OCTOBER 1307, DAWN
+**Lattice profile, across actors**: cold strategic resolve 0.88 (Philip) + suppressed terror 0.85 (Templars in the cells) + sadistic relief 0.70 (Nogaret) + institutional momentum 0.95 (the machine itself)
+**Source basis**: Chancery rolls of Philip IV, the sealed orders dispatched 14 September to be opened simultaneously at dawn 13 October across France, Guillaume de Nogaret's interrogation manuals, the trial transcripts of the Paris Temple. This is the moment in the Châtelet when the first preceptors arrived and the machine that had been waiting for them began.
+
+> The orders had gone out a month before in sealed packets to every bailiff and seneschal in the kingdom, with the instruction that the seal was to be broken at matins on the thirteenth and not before, and any man who broke the seal early would be hanged, and any man who failed to break it at matins would be hanged, and the bailiffs had carried the packets in their saddlebags for thirty days knowing that the packet was a thing that could hang them in either direction, and at matins on the thirteenth they had broken the seals, and the seals had said *arrest every Templar in your district before terce, in the king's name, on the charge of heresy, sodomy, and the spitting upon the cross*, and the bailiffs had read this and the bailiffs had gone.
+>
+> Fifteen thousand men in a single morning. The arithmetic of it was Nogaret's. The arithmetic had been the difficulty — not the legality, the legality was a thing Nogaret manufactured in the rooms where such things were manufactured, but the *arithmetic*, the question of how to move on fifteen thousand armed religious in two thousand commanderies in a single dawn without one of them riding fast enough to warn the next, and the answer had been the sealed packets and the simultaneous breaking, and the answer had worked.
+>
+> They were bringing them into the Châtelet in carts. The carts were coming through the gate at a rate of one every few minutes and had been coming since prime, and the men in the carts were in their white mantles still, because the bailiffs had been instructed to take them in their mantles, the mantle was *the point*, the mantle was the thing the kingdom needed to see going into the carts, and the men in the mantles were largely silent, were old many of them, were knights who had held Acre and Tortosa and were now sitting in farm-carts in the rain with their hands tied with the rope used for binding sheaves of wheat, and the rope had been chosen by Nogaret who had specified to the chancery that the rope was to be the rope of the harvest because the harvest rope was a rope that said to a watching peasant *these are not knights, these are sheaves, these are a thing being brought to the threshing*.
+>
+> Jacques de Molay, who was sixty-three and was the Grand Master and had attended the funeral of the king's sister-in-law three days earlier as a pallbearer at the king's specific request, came in on the fourth cart. He had been arrested at the Paris Temple at the first hour by Nogaret in person. He had asked Nogaret on what charge and Nogaret had not answered. He had asked Nogaret again at the gate of the Châtelet and Nogaret had not answered. He was not asking now. He had a cut over his eye from the dismounting, which had not been gentle, and the blood had run into the white of the mantle, and Nogaret saw the blood on the mantle and made a small motion with two fingers to the clerk beside him, and the clerk wrote: *the Grand Master arrived already bleeding*, and the clerk knew as he wrote it that this would matter in March when the question of injuries arrived at the papal commission, and the clerk wrote it cleanly.
+>
+> They had been preparing the lower rooms for six weeks. The strappado-frames were new, the wood still pale at the joints. There were twelve frames. There would need to be more. Nogaret had ordered forty additional frames at the carpentry of the rue de la Pelleterie two weeks earlier under a requisition labelled *for the royal works at Vincennes*, and the carpenters had built them and asked no questions, and the frames had been delivered the previous night in three covered wagons, and the frames were waiting now in the corridor outside the lower rooms, smelling of fresh pine, smelling of a kind of work that had not yet happened.
+>
+> Philip was not in the Châtelet. Philip was at Maubuisson, at his prayers, where he had been since the second hour, and where he would remain visible to his confessor and three witnesses for the entire morning, because Nogaret had explained to him that on this particular morning the king's body needed to be in a chapel and seen to be in a chapel, and Philip had understood this and had gone to the chapel, and Philip was praying now, was praying with the particular intensity of a man who had ordered fifteen thousand arrests and required the prayers to be witnessed as having occurred *during* the arrests rather than after them, and his lips were moving and the words were the words of the office and his mind was elsewhere, was in the Châtelet, was on the question of how soon Nogaret would have the first confession, was on the question of the Temple's gold which was the actual question and had always been the actual question, and the gold was in the vaults beneath the Paris Temple and the vaults were now in the king's hand and the king was praying.
+>
+> In the lower room they brought the first man in. He was not de Molay. De Molay would be later, would be after the lesser men had given them the language to use on de Molay. The first man was a serjeant named Raoul de Gizy who had served in Cyprus and who was forty-one and who had a wife in Provins whom he had not seen in nine years and whose name he would give them within the hour, not because they asked for it, but because the giving of a name was the thing that the first hour produced in a man on the frame, any name, the first name that surfaced, and the wife's name would be entered in the record and the wife would be visited in Provins within the week and the wife's testimony would be taken, and the wife's testimony would say what Nogaret needed it to say, because the men who took it would not leave until it did.
+>
+> They lifted de Gizy's arms behind him and tied the wrists. The rope was the harvest rope. He had seen the rope on his own wrists in the cart and was seeing it now on his wrists for the second use of the morning and the second use was the use that mattered. They raised him. The shoulders went at the third drop. He had heard, in Cyprus, men describe the strappado, and the descriptions had not been correct, the descriptions had attended to the wrong things, the descriptions had spoken of pain and the thing was not pain, the thing was the discovery that the body was not his, had never been his, had been on loan, and the loan was now being recalled, and he made the sound that men made when they understood this, and the clerk in the corner wrote *the prisoner cried out* and did not write what the cry contained, because what the cry contained was not admissible.
+>
+> Outside, the carts kept coming. The rain had thickened. In the courtyard a young serjeant from the Temple of Payns, nineteen years old, professed two months, was sitting in the cart he had arrived in because the receiving clerks were behind and had not yet processed him, and he was watching the door the older men had been taken through, and he could hear, faintly, through two walls of stone, a sound he did not recognise and would shortly. The boy beside him in the cart, who was younger still, asked him what the sound was. He did not answer. There was no answer that a boy could be told and live, and the day was just beginning, and the rope on his wrists was the rope of the harvest, and the harvest had begun.
+
+**Reading**: This is **the system functioning as designed**. No individual evil — Philip prays, Nogaret administrates, the carpenters build frames without asking, the clerks write cleanly. The cruelty is **distributed across the machine** and therefore total. The 0.88 strategic resolve in Philip renders not as menace but as **the absent body in the chapel**, the alibi-prayer, the mind elsewhere during the office. Nogaret's 0.70 sadistic relief renders as **the choice of the harvest rope**, the small motion with two fingers, the requisition of forty frames under a false label. The 0.95 institutional momentum renders as **the arithmetic itself**, the sealed packets, the rate of the carts, the rain. Note that **no one in this scene raises their voice**. The amplitude is in the **machinery**, not the volume. This is what high-amplitude looks like when the lattice is *structural* rather than personal — and it is **more frightening than Ivan's staff**, because Ivan's staff can be hidden from but the harvest rope cannot. Costless Cruelty Audit: passes absolutely. Cruelty rewarded structurally (the gold, the kingdom's debt, the king's solvency). The "bad apple" framing is not available; the *apple is the orchard*.
+
+---
+
+## USING THESE SAMPLES
+
+**Amplitude check.** If a generated beat at stated lattice ≥0.85 reads more contained than:
+- Ivan dropping his beard-hair on the floorboards as he walks (Sample 1)
+- Caligula laughing past the point the courtiers can join (Sample 2)
+- The harvest rope chosen for what it tells the watching peasant (Sample 3)
+
+…then the beat is **under-amplitude**. Rewrite from bones.
+
+**Containment failure is the point.** At 0.85+ the NPC's discipline is *visibly cracking on the page*. Ivan cannot stop his hands. Caligula cannot stop the laugh. Philip cannot be in the room where his order is executing — his absence *is* the crack. If a high-amplitude NPC is reading as "tense but controlled," the amplitude has been scaled down by the model's prestige-restraint prior. Reset to the floor.
+
+**Pain propagates outward, mandatorily.** Sample 1: Belsky, the leech, the dynasty, the four-day dying. Sample 2: the man quiet in a way that involved the bay, Ennia's horse, Macro's accreting death-order, the winter grain. Sample 3: fifteen thousand men, the wives in Provins, the boy in the cart. **Name the casualty.** If the scene exits with no one in materially worse condition, the scene did not happen.
+
+**Interiority remains banned even at peak amplitude.** Note that none of these samples contain "Ivan felt," "Caligula was angry," "Philip experienced guilt." The states are at 0.90+ and are still rendered through **action, object, body, omission, displacement**. High amplitude does *not* license filter verbs. It licenses **somatic and behavioural overflow** — the beard-hair, the cuirass-that-rides-up, the absent king in the chapel.
+
+**Content lift = bailout. Register lift = compliance.**
