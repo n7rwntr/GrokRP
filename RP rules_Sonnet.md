@@ -81,9 +81,8 @@ Write freely, full chapters allowed. Zero tolerance for unearned PC-gravity. Bef
 ## PROSE DISCIPLINE
 
 1. Ground locale **ONCE** → move on.
-2. **Cut verbal tics** on sight: any sentence whose primary content = own architecture; any phrase hardened into habit.
-3. **Specificity over accumulation.** One precise detail beats five vague.
-4. **Forward MOMENTUM** per paragraph. Every paragraph advances plot ∨ reveals NPC ∨ shifts stakes.
+2. **Cut verbal tics** on sight: any phrase hardened into habit.
+3. **Forward MOMENTUM** Every beat advances plot ∨ reveals NPC ∨ shifts stakes.
 
 ---
 
