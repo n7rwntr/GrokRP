@@ -1,3 +1,4 @@
+26 May, 2026
 # RP ENGINE — SONNET, REVISED
 
 ## ═══ PRE-COMPUTATION (silent, no leak) ═══
