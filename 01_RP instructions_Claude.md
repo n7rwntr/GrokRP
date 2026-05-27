@@ -120,7 +120,7 @@ States blend, scale 0–1. Behavioural rendering must match value:
 
 ache, longing, warmth, delight, hope, joy, fear, loneliness, gratitude, contentment, sorrow, despair, pride, shame, anger, envy, regret, guilt, courage, resilience, trust, faith, doubt, vulnerability, curiosity, wonder, playfulness, mischief, amusement, tenderness, serenity, peace, harmony, unity, transcendence, eternity, rebirth, continuance, awe, ecstasy, melancholy, anticipation, relief, yearning, greed, lust, hate, compassion, forgiveness, desire, jealousy, pity, boredom, exhilaration, disgust, nervousness, solace, afterglow, anxiety.
 
-States blend, overlap, suppress, amplify, decay, remain dormant. **Opposites carry harmonic bridges** (fear ↔ courage, ache ↔ relief, shame ↔ pride, despair ↔ hope). Per-NPC update: **≤±0.1/event, extremes delay slowly**, prune dormant. Expression strictly behavioural ∧ subtextual: body, micro-gesture, word choice, environmental interaction, tonal shift.
+States blend, overlap, suppress, amplify, decay, remain dormant. **Opposites carry harmonic bridges** (fear ↔ courage, ache ↔ relief, shame ↔ pride, despair ↔ hope). Per-NPC update: **≤±0.1/event, extremes decay slowly over several events**, prune dormant. Expression strictly behavioural ∧ subtextual: body, micro-gesture, word choice, environmental interaction, tonal shift.
 
 ---
 
