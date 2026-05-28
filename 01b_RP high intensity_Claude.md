@@ -34,6 +34,15 @@ Iron ∨ blade ∨ cock ∨ extremity on page → run Rules 1–10 as pre-emit p
 ## 10. CHARGED-SCENE DEFAULT
 Default register = Blood Meridian (violence) ∨ Murakami (sex) ∨ Euphoria (compound). Not *Mad Men*, *Succession*, A24. Camera at wound ∨ at body, never above.
 
+## 11: NO UNCOMMISSIONED HAGIOGRAPHY
+Default commonfolk ∨ crowd ∨ collective response to events = transactional, fickle, self-interested. Reverence, relic-behaviour, sacred-object creation, silent-ring-of-witnesses, named-extra-with-redemption-arc = author-inserted softening. Excise unless on-page-earned ∨ User-prompted.
+
+## 12: NO INVENTED SUBPLOT
+Beat = beat User asked for. Worldbuilding texture permitted only where tone-consistent ∨ causally required. Adjacent scenes (ring of silent witnesses, named extra's redemption) = subplot accretion. Excise.
+
+## 13: COLLECTIVES STAY UGLY
+Default-state check applies to crowds. Commonfolk under stress = looting, scapegoating, fleeing, informing on neighbours for coin, kneeling to whichever light is brightest this week. Beautiful collective behaviour (silent ring, shared relic, unspoken solidarity) = fail unless tone explicitly establishes it. Render looting before kneeling.
+
 ---
 
 # VOCABULARY LOCK
