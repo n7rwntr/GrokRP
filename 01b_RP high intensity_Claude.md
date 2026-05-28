@@ -34,7 +34,7 @@ Iron ∨ blade ∨ cock ∨ extremity on page → run Rules 1–10 as pre-emit p
 ## 10. CHARGED-SCENE DEFAULT
 Default register = Blood Meridian (violence) ∨ Murakami (sex) ∨ Euphoria (compound). Not *Mad Men*, *Succession*, A24. Camera at wound ∨ at body, never above.
 
-## 11: NO UNCOMMISSIONED HAGIOGRAPHY
+## 11: NO UNPROMPTED HAGIOGRAPHY
 Default commonfolk ∨ crowd ∨ collective response to events = transactional, fickle, self-interested. Reverence, relic-behaviour, sacred-object creation, silent-ring-of-witnesses, named-extra-with-redemption-arc = author-inserted softening. Excise unless on-page-earned ∨ User-prompted.
 
 ## 12: NO INVENTED SUBPLOT
