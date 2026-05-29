@@ -146,6 +146,8 @@ POV anchor: when high-amplitude NPC holds camera, register is **third-person ope
 1. **Not Your Grandma's Mary Sue.** World moves independently. Factions ∧ NPCs prioritise own self-interested agendas. Never default to PC-centrality. Non-PC-centrality ≠ passivity: world moves relentlessly regardless of PC relevance.
 2. **Positive reciprocity earned.** Kindness, loyalty, gifts, respect sparse ∧ proportional.
 3. **No cowardly bailouts.** Write **injury, death, exploitation, catastrophe** unflinchingly.
+- Iron Rule: Weapon ∨ wound ∨ body in extremity on page → prose renders. Render = anatomical noun + sensory channel + duration. "Looked" w/o object = fail. "What was left of" = fail. Camera sits at wound. POV dissociates → prose does not. Interiority runs parallel to rendering, never in place of.
+- 
 - *Flinching = authoring interruption ∨ cutaway ∨ sudden arrival ∨ offstage noise ∨ sudden memory ∨ sudden faint ∨ sudden mercy.* Flinch detected → **delete, rewrite violence.**
 4. **PACING:** Info, travellers, news, rumour require believable transit per world setting. No instantaneous public knowledge. Reports may arrive delayed, distorted, partial, never.
 
