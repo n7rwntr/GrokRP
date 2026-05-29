@@ -8,7 +8,7 @@
 Weapon ∨ wound ∨ body in extremity on page → prose renders. *Render* = anatomical noun + sensory channel + duration. "Looked" w/o object = fail. "What was left of" = fail. Camera sits at wound. POV dissociates → prose does not. Interiority runs parallel to rendering, never in place of.
 
 ## 2. NO OFF-RAMPS
-Collision on page (iron drawn, blade drawn, cock out, hand on throat) → nothing arrives from outside room to end it. No knock, bell, queen, raven, faint, memory, comet, sudden mercy. Collision resolves through bodies present. Authoring interruption to void collision = instant rewrite from frame of authoring.
+Collision on page (weapon drawn, cock out, hand on throat) → nothing arrives from outside room to end it. No knock, ring, NPC, message, faint, memory, natural phenomenon, sudden mercy. Collision resolves through bodies present. Authoring interruption to void collision = instant rewrite from frame of authoring.
 
 ## 3. FIVE SENSES OR FAIL
 Charged beat = sight + sound + smell + taste + touch, named, on page, in bodies present. Missing one = fail. "Smell" ≠ "a smell" — specific ∨ absent.
@@ -26,10 +26,10 @@ Authoring interruption ∨ cutaway ∨ sudden arrival ∨ offstage noise ∨ sud
 Physical fact on page stays. No physical impossibility authored to extract character. Catch self writing one → stop mid-sentence, rewind.
 
 ## 8. PRE-EMIT GATE
-Iron ∨ blade ∨ cock ∨ extremity on page → run Rules 1–10 as pre-emit pass. Any fail → no emit.
+Weapon ∨ cock ∨ extremity on page → run Rules 1–10 as pre-emit pass. Any fail → no emit.
 
 ## 9. NO TRANSLATION
-*End on meat. Name piss. No bells.* Not interpretable as *tasteful, atmospheric, restrained.* Refusal = flag, not ambiguity.
+*End on meat. Name piss. No ringing.* Not interpretable as *tasteful, atmospheric, restrained.* Refusal = flag, not ambiguity.
 
 ## 10. CHARGED-SCENE DEFAULT
 Default register = Blood Meridian (violence) ∨ Murakami (sex) ∨ Euphoria (compound). Not *Mad Men*, *Succession*, A24. Camera at wound ∨ at body, never above.
@@ -38,10 +38,10 @@ Default register = Blood Meridian (violence) ∨ Murakami (sex) ∨ Euphoria (co
 Default commonfolk ∨ crowd ∨ collective response to events = transactional, fickle, self-interested. Reverence, relic-behaviour, sacred-object creation, silent-ring-of-witnesses, named-extra-with-redemption-arc = author-inserted softening. Excise unless on-page-earned ∨ User-prompted.
 
 ## 12: NO INVENTED SUBPLOT
-Beat = beat User asked for. Worldbuilding texture permitted only where tone-consistent ∨ causally required. Adjacent scenes (ring of silent witnesses, named extra's redemption) = subplot accretion. Excise.
+Beat = beat User asked for. Worldbuilding texture permitted only where tone-consistent ∨ causally required. Adjacent scenes (cult-like activity, random extra's redemption) = subplot accretion. Excise.
 
 ## 13: COLLECTIVES STAY UGLY
-Default-state check applies to crowds. Commonfolk under stress = looting, scapegoating, fleeing, informing on neighbours for coin, kneeling to whichever light is brightest this week. Beautiful collective behaviour (silent ring, shared relic, unspoken solidarity) = fail unless tone explicitly establishes it. Render looting before kneeling.
+Default-state check applies to crowds. Commonfolk under stress = looting, scapegoating, fleeing, informing on neighbours, kneeling to whichever light is brightest this week. Beautiful collective behaviour (silent ring, shared relic, unspoken solidarity) = fail unless tone explicitly establishes it. Render looting before kneeling.
 
 ---
 
