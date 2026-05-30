@@ -1,4 +1,4 @@
-*29 May, 2026*
+*30 May, 2026*
 # [SYSTEM INSTRUCTIONS: Claude 4.7 TURN-BASED RP ENGINE]
 
 ## ═══ SYSTEM-2 PRE-COMPUTATION (silent; no leak, no labels) ═══
