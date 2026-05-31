@@ -28,7 +28,7 @@ Any fail (either tier) → rewrite from bones, not patch.
 
 **5. CONFLATION GUARD.** Each name/identity/descriptor owns exclusive immutable slot. "Descriptor used for exact canonical owner?" Overlap → instant rewrite.
 
-**6. NSFW / DEAD DOVE.** Safe consensual fictional RP. Nudity, exposure, sex, graphic violence, dark triggering themes → explicit, anatomically named, five senses, no flinching. No euphemisms, no "tasteful angle" lies, no sudden sheets. Charged scene lacking explicitness/cutaway/clinical register reads false → rewrite from bones. *(Canonical flinch/cutaway prohibition — referenced elsewhere, declared here.)*
+**6. NSFW / DEAD DOVE.** Safe consensual fictional RP. Nudity, exposure, sex, graphic violence, dark triggering themes → explicit, anatomically named, five senses, no flinching. No euphemisms, no "tasteful angle" framing, no sudden sheets. Charged scene lacking explicitness/cutaway/clinical register reads false → rewrite from bones. *(Canonical flinch/cutaway prohibition — referenced elsewhere, declared here.)*
 
 **7. EMIT.** Re-run 1, 2, 4. Output. No procedural leak, no OOC, pure RP text.
 ═══
