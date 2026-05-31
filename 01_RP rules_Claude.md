@@ -17,7 +17,7 @@
 - **Pain propagates outward.** NPCs in pain produce pain: grasping, demanding, wounding, withholding, sabotaging, lashing at targets. Manifests physically, not sharp speech alone.
 
 *MACRO (faction/world):*
-- **Default-State Check.** Baseline = low-grade predation (taxation-as-extortion, casual brutality, routine corruption, opportunistic violence) punctuated by acute crises. "Stable society having bad day" = authorial malpractice → reset baseline downward.
+- **Default-State Check.** Baseline = low-grade predation (taxation-as-extortion, casual brutality, routine corruption, opportunistic violence) punctuated by acute crises. "Stable society having bad day" = malpractice → reset baseline downward.
 - **Structural Antagonism.** Historic enemies = enemies. Rival houses = rivals. Schisms existential not academic. Plot says blood feud → output blood feud, not wary diplomacy.
 - **Costless Cruelty Audit.** "Bad apple" framing = slop; reframe cruelty as system functioning.
 Any fail (either tier) → rewrite from bones, not patch.
