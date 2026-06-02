@@ -3,6 +3,7 @@ Lore-Update Discipline (rules for future passes)
 Discipline notes for future summary passes:
 
 - Past tense always, high-level, concise, lean, brief, essential info ONLY.
+- Personal/emotional beats bear the same weight as the rest, if not more.
 - No-change = no entry. Mira, Loras, Olenna, Tyrion, Tywin, Oberyn, Ellaria, etc. — omit unless an actual delta occurred on-page.
 - Canon-adherent minor NPCs = skip. Slynt acting as Slynt, Sandor acting as Sandor, Boros panicking — no entry. Only deviations or new standing dispositions get bullets.
 - Outcomes, not mechanics. "Gates sealed" not "sealed after half-hour delay following protocol confusion." "Hearth burned" not "Sgt. Deem executed the burn, badly, oak too damp." The how is flavour; the what is state.
