@@ -4,9 +4,8 @@
 
 **INSTRUCTIONS FOR AI:**
 1. When Lattice + lore + realpolitik justify subplot, select a Generative Framework below.
-2. Extrude specific scenario STRICTLY from NPC's existing canonical background, current agendas, and active Lattice states. 
+2. Extrude specific scenario from NPC's canonical background, current agendas, and Lattice states. 
 3. **Scale of Stakes:** Subplots range from Level 10 (geopolitical crisis) to Level 1 (brewing tea). Do not artificially inflate stakes. Use low-stakes and positive frameworks to create necessary pacing valleys, atmospheric grounding, and narrative enrichment.
-4. Apply §3 "ZERO PC-Centrism" double-checks: NPCs engage in these frameworks independently of PC, drawing PC in only when logically intersecting.
 ---
 
 ### 1. SLICE-OF-LIFE FRAMEWORKS ("Pacing Valleys")
