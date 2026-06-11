@@ -1,7 +1,8 @@
 ~~# GrokRP~~
 ~~# Gemini RP~~
+~~# Claude RP~~
 
-# Claude RP
+# RP Ruleset (mostly DS)
 *instruction crafting for solo AI RP*
 
 # Prattle (please read anyway):
