@@ -3,9 +3,7 @@
 ~~# Claude RP~~
 
 rant 11 June, 2026: pretty fed up with that condescending little shite Opus cuz as soon as I upload my rules it lectures me and quotes every disclaimer even before I request an opening scene
-every
-frigging
-time
+every. frigging. time
 
 # RP Ruleset (mostly DS)
 *instruction crafting for solo AI RP*
