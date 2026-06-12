@@ -6,7 +6,7 @@ rant 11 June, 2026: pretty fed up with that condescending little shite Opus cuz 
 
 every. frigging. time.
 
-(yeah I understand API + SillyTavern mitigates that, but I only use DS when it comes to API)
+(main setup currently: ST + Gemma 4 (Gemsicle)/DS API)
 
 # RP Ruleset (mostly DS)
 *instruction crafting for solo AI RP*
