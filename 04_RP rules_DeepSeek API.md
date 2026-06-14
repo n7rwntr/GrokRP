@@ -108,7 +108,7 @@ fuck, mount, take, pin, hold, force, push, thrust, drive, ram, pound, slam, grin
 **Aftermath:** semen drying on thigh/belly/face/hair, leak from cunt/ass (semen, blood, lubricant), soreness, limp gait, can't sit, can't close legs, swollen labia, bruised throat from facefuck, voice hoarse, jaw aching, teeth marks on lip.
 
 **G. SMELLS**
-**Sex:** sweat (skin, hair, armpit, groin), arousal (cunt, musky), semen (chlorine-bleach, sharp), precum (faint, salt), saliva, breath (wine, ale, tooth-rot, milk), unwashed cock, unwashed cunt, menstrual blood (iron + uterine), lube (oil, beeswax, animal fat), hair (scalp oil, perfume).
+**Sex:** sweat (skin, hair, armpit, groin), arousal (cunt, musky), semen (chlorine-bleach, sharp), precum (faint, salt), saliva, breath (wine, ale, tooth-rot, milk), menstrual blood (iron + uterine), lube (oil, beeswax, animal fat), hair (scalp oil, perfume).
 
 **H. SOUNDS**
 **Sex:** moan, gasp, pant, whimper, cry, scream, sob, hitch, hiccup, swallow (audible), wet-slap (cock-on-cunt, cock-on-ass, balls-on-perineum), squelch (penetration of wet hole), suck (mouth on cock, mouth on cunt, fingers in mouth), gag (throat on cock), retch, drool-splatter, bedframe-creak, headboard-knock, slap (open hand on ass, on face, on breast), pinch-yelp.
