@@ -6,12 +6,15 @@
 ---
 rant 16 June, 2026:
 tbh I still think DeepSeek Flash is so frigging dumb
+
 **hot garbage**, even Grok 3 was better
 
 constantly miscasting characters, it grabs for the most prominent trope within the context, rather than what we know (training corpus and RP lore) of the character. for example, miscasting Cersei as 'uptight queen mother concerned with decorum and propriety' instead of... well, Cersei
+
 or miscasting Shae as a 'wise peasant with a rough exterior and a heart of gold' because the context needed one
 
 and it always fails to maintain the info firewall, e.g. immediately after my ooc reminder: 'such and such... is a blind spot for the entire cast, do not leak' and DS Flash instantly and gleefully leaked the info to one of the 'clever' chars who's also my secret ally, and had him basically sabotage me in the enemy council (firewall breach + lore-assassination)
+
 this happens *with or without* the explicit reminder abt info asymmetry
 
 so I ran a parallel test with Gemma 4, and it upheld the firewall *with or without* reminder
