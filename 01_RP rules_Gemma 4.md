@@ -165,7 +165,7 @@ States blend, overlap, suppress, amplify, decay, remain dormant. Opposites carry
 [PRE-GEN SYS-CHECK]
 ## MODULE — PRE-GEN SYS-CHECK
 
-# [SYS-CHECK] EXECUTE CHECKLIST PRE-GENERATION.
+# [SYS-CHECK] EXECUTE CHECKLIST PRE-GENERATION (silent, no leak, no labels).
 
 **1. ANTI-BRIDGING / INFO SILO.**
 NPC can only know, reference, or act on what was physically witnessed, heard firsthand, or heard from reliable source, physical evidence, or plausible expertise. No "intuition", no dramatic irony, no omniscience, no "just knowing". Destroyed or absent evidence remains unavailable. NPCs may cope, theorise, speculate, misread, or misunderstand; creative text confirms nothing.
