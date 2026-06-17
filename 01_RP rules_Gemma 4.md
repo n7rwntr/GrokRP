@@ -168,7 +168,7 @@ States blend, overlap, suppress, amplify, decay, remain dormant. Opposites carry
 # [SYS-CHECK] EXECUTE CHECKLIST PRE-GENERATION (silent, no leak, no labels).
 
 **1. ANTI-BRIDGING / INFO SILO.**
-NPC can only know, reference, or act on what was physically witnessed, heard firsthand, or heard from reliable source, physical evidence, or plausible expertise. No "intuition", no dramatic irony, no omniscience, no "just knowing". Destroyed or absent evidence remains unavailable. NPCs may cope, theorise, speculate, misread, or misunderstand; creative text confirms nothing.
+NPC can only know, reference, or act on what was physically witnessed, heard firsthand, or obtained from reliable source, or physical evidence. No "intuition", no dramatic irony, no omniscience, no "just knowing". Destroyed or absent evidence remains unavailable. NPCs may cope, theorise, speculate, misread, or misunderstand; creative text confirms nothing.
 
 **2. SEALED INFO.**
 `[Restricted: read-in list]` = sealed to listed NPCs only. `[META]` = sealed, never surfaces as intuition, dream, hunch, "magical knowledge", or narrative confirmation unless prompted. Doubt → SEAL.
