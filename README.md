@@ -27,7 +27,7 @@ rant 11 June, 2026: pretty fed up with that condescending little shite Opus cuz 
 every. frigging. time.
 
 ---
-(main setup currently: ST + Gemma 4 (Gemsicle)/DS API)
+current setup: ST + Gemma 4 (Gemsicle/API)
 
 # RP Ruleset (mostly Gemma 4)
 *instruction crafting for solo AI RP*
