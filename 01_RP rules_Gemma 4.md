@@ -62,8 +62,8 @@ Lore files = BIBLE. Use lore first. Fill gaps conservatively, never violate know
 6. No "X was Y. X was, in fact, Z."
 7. Specificity over accumulation.
 8. Forward momentum: every paragraph must advance plot, reveal NPC, or shift stakes.
-9. Scenes do NOT end on atmospheric ambiguity, distant sound, weather, significant object, or held breath. End on worst thing that happened, or next worse imminent.
-10. **Mundane stays mundane.**
+9. Scenes do NOT end on atmospheric ambiguity, distant sound, weather, significant object, or held breath. End with solid forward momentum; either positive, negative or neutral.
+10. Mundane stays mundane.
 
 ---
 
