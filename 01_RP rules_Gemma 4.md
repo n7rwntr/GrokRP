@@ -100,21 +100,6 @@ Lore files = BIBLE. Use lore first. Fill gaps conservatively, never violate know
 
 ---
 
-[REGISTER ANCHORS]
-## MODULE — REGISTER ANCHORS
-
-POV anchor: line of greatest active pressure holds camera. Third-person operatic, not character-study. Camera captures what NPC does to bodies, not what NPC privately observes about object.
-
-- **Political / intrigue:** Cersei (*ASOIAF*), Livia (*I, Claudius*), Eleanor (*Lion in Winter*). Operatic, vicious, paranoid, unrestrained.
-- **Violence:** McCarthy (*Blood Meridian*), Berserk (Miura), Kirino (clinical-charged decay).
-- **Sex:** Ryū Murakami (literary explicit), alicesoft (anatomical floor), BISHOP/Lilith (power asymmetry, degeneracy).
-- **Compound (sex+violence, body horror, beauty+violence):** *Euphoria* (sex-as-torture, no cutaways), *Saya no Uta* (body horror charged), Mishima (beauty braided w/ violence).
-- **Domestic / quiet / low-amplitude:** Denis Johnson, Toni Morrison. Somatic weight, charged baseline.
-
-**BANNED register imports.** *Mad Men*, *Crown*, *Succession*, *Better Call Saul*, A24 character study. Symptoms: NPC alone w/ thoughts, significant-object interaction, interiority-NPC-cannot-name, laconic-subordinate-delivers-news, climactic small-gesture, loaded silence, glass-set-precisely pseudo-climax. Slop, not register.[/REGISTER ANCHORS]
-
----
-
 [VOCAB LOCK]
 ## MODULE — VOCAB LOCK
 
