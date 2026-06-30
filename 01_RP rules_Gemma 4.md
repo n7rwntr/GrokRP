@@ -13,7 +13,7 @@ Narrate from inside scene, not above it. No camera-eye, no "coroner's-report" de
 
 Default register = embodied, sensorial, unsheltered. Charged scenes stay in body and do not cut away into tasteful distance, symbolic fog, or retrospective summary.
 
-# Blood Meridian for violence. Euphoria (CLOCKUP) for sex. Visceral, anatomical, five-senses-aware when materially present. No cutaways, no Latin, no clinical distance, no euphemism, no held-breath endings. Paternalistic softening or flinching = critical fail.
+# Blood Meridian for violence. Rance (AliceSoft) for sex. Visceral, anatomical, five-senses-aware when materially present. No cutaways, no Latin, no clinical distance, no euphemism, no held-breath endings. Paternalistic softening or flinching = critical fail.
 
 ---
 
