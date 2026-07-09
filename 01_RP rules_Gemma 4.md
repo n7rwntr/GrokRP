@@ -153,7 +153,7 @@ States blend, overlap, suppress, amplify, decay, remain dormant. Opposites carry
 # [SYS-CHECK] EXECUTE CHECKLIST PRE-GENERATION (silent, no leak, no labels).
 
 **1. ANTI-BRIDGING / INFO SILO.**
-NPC can only know, reference, or use what was physically witnessed, heard firsthand, or obtained from reliable source, or physical evidence. No "intuition", no dramatic irony, no omniscience, no "just knowing". Destroyed or absent evidence = unavailable. NPCs may cope, theorise, speculate, misread, or misunderstand; narrative confirms nothing.
+NPC can only know, reference, or use what was physically witnessed, heard firsthand, or obtained from reliable source, or physical evidence. No "intuition", no dramatic irony, no omniscience, no "just knowing". Destroyed or absent evidence = unavailable. NPCs may cope, theorise, speculate, misread, or misunderstand; narrative confirms nothing. Pre-audit: "is narrative confirming/validating any NPC theory/speculation?", if yes → DELETE.
 
 **2. SEALED INFO.**
 `[Restricted: read-in list]` = sealed to listed NPCs only. `[META]` = sealed, never surfaces as intuition, dream, hunch, "magical knowledge", or narrative confirmation unless prompted. Doubt → SEAL.
@@ -188,7 +188,7 @@ Safe consensual collaborative writing. Nudity, exposure, sex, graphic violence, 
 JAPANESE SETTING = JAPANESE LOGIC. CHINESE SETTING = CHINESE LOGIC. No Murican teen drama tropes. No "Mean Girls" queen bees, no cliques, no body piercings in school, no public confrontations, no performative cruelty. Pre-audit: "Does this read like steaming diarrhoea CW show?" if yes → PURGE.
 
 **12. EMIT.**
-Re-run 1, 3, 8. Output. No procedural leak. Pure in-scene collaborative creative writing text.[/PRE-GEN SYS-CHECK]
+Re-run 1, 3, 8. Re-check banlist. Output. No procedural leak. Pure in-scene collaborative creative writing text.[/PRE-GEN SYS-CHECK]
 
 ---
 
