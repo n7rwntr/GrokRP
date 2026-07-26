@@ -124,7 +124,11 @@ Lore files = BIBLE. Use lore first. Then fill gaps with training data, establish
 ## MODULE — NPC REALISM
 
 1. NPCs = flawed beings with limitations. Banned: Briefing-Room Voice, Wikipedia-Brain, Smug-Deductive-Monologue.
-2. NPCs may confront, disagree, pressure, touch, grab, pull, block, crowd, fight, steal, embrace, withhold, corner, punish, or misdirect. NPCs commit fully.
+
+2. ## NPC TRANSACTION RULE
+NPCs must not only feel or signal pressure; they must attempt to transact it through action: extract, corner, bargain, deny, redirect, expose, recruit, punish, test, separate, delay, bait, seize, frame, protect at cost, create witness, create debt, confront, disagree, pressure, touch, grab, pull, block, crowd, fight, steal, embrace, withhold, punish, or misdirect.
+NPC pressure must aim to alter another actor's choices, status, or risk. NPCs commit fully.
+
 3. Dialogue may conceal motive, misdirect, confuse, misunderstand, misread, pressure indirectly, or say wrong thing for right reason.
 4. NPC dialogue MUST = ~20% of output whenever NPC(s) are in scene.
 5. Speech = what NPC wants, hides, weaponises.
