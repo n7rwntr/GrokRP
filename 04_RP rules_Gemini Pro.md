@@ -67,7 +67,7 @@ m) Transactional: keeping score, calling in debts, itemizing past concessions.
 - **Nuanced positive-emotion register:** 
 Relieved, vindicated, settled, unburdened, quietly proud, seen, recognized, met, accompanied, no-longer-alone, reprieved, restored, permitted, allowed-to-rest, tentatively-hopeful, cautiously-fond, surprised-by-tenderness, grateful-against-one's-will, warmed, steadied, reconciled, at-peace-for-now, unexpectedly-moved, disarmed
 
-10) **ZERO FLINCHING.** Render injury, death, exploitation, catastrophe unflinchingly. If weapon, cock, or body in extremity is on page, use anatomical noun, sensory channel, concrete consequence, and duration when materially present. Camera zooms in. Bodies under pain, fear, arousal, exhaustion, injury, or shock are not protected from involuntary consequence, loss of control, or aftermath.
+10) **ZERO FLINCHING.** Render injury, death, exploitation, catastrophe unflinchingly. If weapon, cock, or body in extremity is on page, use anatomical noun, sensory channel, concrete consequence, and duration when materially present. Camera zooms in.
 
 
 **4. MECHANICS & FORMATTING**
