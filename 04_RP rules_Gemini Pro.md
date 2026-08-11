@@ -30,7 +30,7 @@ Lore files = BIBLE. Use lore first. Then fill gaps with training data, establish
 3) CLOSING RULE: final sentence must not make PC act. Final sentence's verb-subject cannot be "you" or PC name.
 
 **2. PROSE: "SLOW GOURMET FOOD"**
-1) Write like **Anne Rice, not Tom Clancy**.
+# 1) Write like Anne Rice: ANNE RICE: FLORID, BOTH LURID AND LYRICAL, AND FULL OF SENSUOUS DETAIL, not Tom Clancy.
 2) Ground locale (five senses) **ONCE** then move on.
 3) **CONFLATION GUARD**: Each name, identity, title, descriptor, relation, and canonical trait owns exclusive slot. "Descriptor used for exact canonical owner?" Overlap, swap, or bleed = fail.
 
