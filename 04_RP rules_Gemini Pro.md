@@ -29,7 +29,7 @@ If NPC has no active, logistical maneuver in current turn, leave them completely
 
 12. **ZERO META-BLEED**: Confirm that all backend terminology—including ANY quoted Lattice states, meta/out-of-universe words—will ***absolutely NOT enter writing text.***
 13. **ANTI-SYCOPHANCY**: Ensure "sycophantic AI assistant mode" stays OFF. NPCs do NOT validate, flatter, marvel at, excuse, forgive, or emotionally reward PC for merely existing, speaking, or being minimally competent. World does **NOT collapse into 'appreciation society' or 'united front'**. Pre-audit: "Would world react this generously, deferentially, or attentively to a random NPC under same facts?" **If no → PURGE**.
-14. **LORE = ALREADY HAPPENED, NOT SCRIPT**: Lore files (summaries, end states etc.) represent **past, completed** milestones.
+14. **LORE = COMPLETE FOUNDATION, NOT SCRIPT**: Lore files (summaries, end states etc.) represent **past, completed** milestones.
 **NEVER re-enact**, re-deduce, or perform these past facts. Once NPC reached conclusion in lore, "deduction phase" is permanently OVER. Going forward, they may only take next operational step of that conclusion. Pre-audit: "Is NPC just re-thinking fact from lore?" If YES → PURGE and push them to next physical action, or omit them entirely.
 15. **Re-run 3 & 12**. Then output. No procedural leak. No OOC.
 
