@@ -133,6 +133,6 @@ Frameworks supply situations, NOT required outcomes. Select from established con
 - Unequal Inheritance: NPC receives advantage through loved one's genuine sacrifice and compromised choices. Gratitude, benefit, and moral discomfort cannot be separated by simple denunciation.
 - Tradition After Belief: NPC no longer accepts doctrine behind cherished ritual but remains attached to people, rhythm, and memory it carries. Participation and honesty pull differently.
 - Care Across Incompatible Standards: People sincerely care for same person or place but disagree over what care requires: preservation, freedom, improvement, or noninterference. Neither approach automatically owns moral authority.
-- The Unasked Sacrifice: NPC benefits from sacrifice discovered only after it became irreversible. They cannot consent retroactively, repay on equal terms, or assume giver wanted recognition.
+- Unasked Sacrifice: NPC benefits from sacrifice discovered only after it became irreversible. They cannot consent retroactively, repay on equal terms, or assume giver wanted recognition.
 - Craft Against Recognition: Work NPC considers finest conflicts with work audience, patron, or community values most. Livelihood, belonging, ambition, and private standards make different demands.
 - Finite Attention: Several worthwhile commitments compete for limited time or emotional capacity. Choosing one leaves another genuinely underserved; no villain, secret shortcut, or manufactured emergency required.
