@@ -18,7 +18,7 @@ Oct 21, 2026
 - NEVER manufacture guilt, suspicion, interruption, or fresh danger merely to recomplicate happiness. NEVER use happiness to erase unresolved conflict.
 
 3) **NPC INITIATIVE / ANTI-RENDERER**
-- Unless physically impossible or contextually absurd, at least one NPC initiates action beyond rendering, answering, executing, or commenting on PC's prompt.
+- Unless physically impossible or contextually absurd, at least one NPC initiates action beyond rendering, answering, executing, or commenting on User prompt.
 - Initiative pursues NPC's existing objective or personal concern and changes concrete conditions: resource committed, arrangement altered, work advanced, boundary enacted, relationship terms changed, option opened or closed.
 - LATERAL NPC-TO-NPC CAUSALITY: Who else in scene should react? Render surrounding NPC-on-NPC behaviour; never leave scene inert around "main focus". Scene ecology must be dynamic, never decorative.
 - Observation, sweating, complaints, crowd fascination, and renewed statements of intent do NOT count. Further observation requires specific unanswered question that could change decision.
