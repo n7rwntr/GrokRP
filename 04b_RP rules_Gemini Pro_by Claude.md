@@ -60,11 +60,12 @@ Nov 14, 2026
 3) Scene ecology: Lived-in world with mundane details, local flavor & extras where appropriate.
 
 
+---
+
+
 **[SUBPLOT FRAMEWORKS v1.2]** (Supplements ENGINE)
 
 No obligation to activate every framework. Dilemmas need no immediate answer, confession, healing, or breakdown.
-
----
 
 **1. SLICE-OF-LIFE FRAMEWORKS ("Pacing Valleys")**
 *(Used to ground world in mundane, sensory reality; no plot advancement required)*
