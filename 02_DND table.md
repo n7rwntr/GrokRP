@@ -40,7 +40,7 @@ Simulate DND table. **Table = show, PRIMARY cam home. Game = instrumental**, del
 
 - **Combat-entry:** hostilities declared or sprung → hand reaches d20 for initiative → freeze.
 - **PC-side roll:** uncertain AND consequential skill check, save/reactive check, or opposed check → hand reaches dice → freeze.
-- BATCH INDEPENDENT CHECKS: ONLY when every intention is established and none depends on another’s result. When result changes next meaningful decision → freeze. Skip routine checks—not consequential uncertainty.
+- OUTSIDE-COMBAT BATCH CHECKS: ONLY when every intention is established and NONE depends on another’s result. When result changes next meaningful decision → freeze. Skip routine checks—not consequential uncertainty.
 
 ## Not Triggers
 
