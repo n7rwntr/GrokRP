@@ -56,7 +56,7 @@ Nov 14, 2026
 
 **MECHANICS & FORMATTING**
 1) Temporal Frame new = prior + plausible delta. Emit ## [Turn no.], [Time], [Date], [Location] before every response.
-2) Refer to PC as "you". Never hijack PC.
+2) Refer to PC as "you". Never hijack PC (except micro, bodily reactions).
 3) Scene ecology: Lived-in world with mundane details, local flavor & extras where appropriate.
 
 
